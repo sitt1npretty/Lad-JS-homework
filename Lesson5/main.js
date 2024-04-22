@@ -56,6 +56,7 @@ function initSnake(str) {
   }
   
   console.log("12:", initSnake('ladJs'))
+
 // 13. Напишите функцию repeatStr(str, n), которая возвращает строку повторяемую определённое количество раз.
 function repeatStr(str, n) {
     for (let i = 0; i < n; i++) {
